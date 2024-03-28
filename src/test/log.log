@@ -1,0 +1,20 @@
+
+CURRENT TEST: 1
+Running suite(s): suite_abs
+100%: Checks: 12, Failures: 0, Errors: 0
+
+CURRENT TEST: 2
+Running suite(s): suite_fabs
+100%: Checks: 10, Failures: 0, Errors: 0
+
+CURRENT TEST: 3
+Running suite(s): suite_fmod
+100%: Checks: 10, Failures: 0, Errors: 0
+
+CURRENT TEST: 4
+Running suite(s): suite_ceil
+100%: Checks: 213, Failures: 0, Errors: 0
+
+CURRENT TEST: 5
+Running suite(s): suite_floor
+100%: Checks: 1064, Failures: 0, Errors: 0
